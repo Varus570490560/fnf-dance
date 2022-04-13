@@ -1,0 +1,5 @@
+# idea config
+.idea/
+
+# apple
+.DS_Store
