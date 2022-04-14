@@ -3,3 +3,7 @@
 
 # apple
 .DS_Store
+
+resource
+input/
+output/
